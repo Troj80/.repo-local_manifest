@@ -5,3 +5,4 @@
   
   <remove-project name="platform/hardware/qcom/display" />
   <project path="hardware/qcom-caf/sm8250" name="hardware_qcom-caf_sm8250_display" remote="display" revision="eleven" />
+</manifest>
