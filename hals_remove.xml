@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="hardware" 
-          fetch="https//github.com/adrian-8901" />
+          fetch="https//github.com/" />
   <remove-project name="LineageOS/android_hardware_qcom_display" />
-  <project path="hardware/qcom-caf/sm8250/display" name="hardware_qcom-caf_sm8250_display" groups="pdk,qcom,qcom_display" remote="hardware" revision="auto" />
+  <project path="hardware/qcom-caf/sm8250/display" name="adrian-8901/hardware_qcom-caf_sm8250_display" groups="pdk,qcom,qcom_display" remote="hardware" revision="auto" />
   
   
 </manifest>
