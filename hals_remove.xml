@@ -3,7 +3,7 @@
   <remote name="hardware" 
           fetch="https//github.com/adrian-8901" />
   
-  <remove-project name="platform_hardware_qcom_sm8250_display" />
+  <remove-project name="platform_hardware_qcom_display" />
   <project path="hardware/qcom-caf/sm8250/display" name="hardware_qcom-caf_sm8250_display" groups="pdk,qcom,qcom_display" revision="eleven" />
   
 </manifest>
