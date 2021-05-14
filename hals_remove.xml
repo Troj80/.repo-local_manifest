@@ -2,6 +2,7 @@
 <manifest>
   <remote name="hardware" 
           fetch="https//github.com/adrian-8901" />
+  <remove-project name="platform/hardware/qcom/display" />
   <project path="hardware/qcom-caf/sm8250/display" name="hardware_qcom-caf_sm8250_display" groups="pdk,qcom,qcom_display" remote="hardware" revision="auto" />
   
   
