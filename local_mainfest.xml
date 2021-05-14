@@ -9,7 +9,7 @@
         
 	<remote  name="kernel"
 		fetch="https://github.com/xiaomi-sm8250-devs" />
-	<remote name="hardware"
+	<remote name="hardware1"
 		fetch="https://github.com/LineageOS" />
 
  	<project path="device/xiaomi/umi" name="device_xiaomi_umi" remote="adrian" revision="fluid"/>
@@ -20,6 +20,6 @@
         
 	<project path="vendor/xiaomi/sm8250-common" name="vendor_xiaomi_sm8250" remote="vendor" revision="12.2.5"/>
 	
-	<project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="hardware" revision="lineage-18.1"/>
+	<project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="hardware1" revision="lineage-18.1"/>
 
 </manifest>
