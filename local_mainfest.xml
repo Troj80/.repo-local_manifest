@@ -16,7 +16,7 @@
 
 	<project path="kernel/xiaomi/sm8250" name="kernel_xiaomi_sm8250" remote="kernel" revision="main" />
         
-	<project path="vendor/xiaomi/sm8250-common" name="vendor_xiaomi_sm8250" remote="vendor" revision="12.2.5"/>
+	<project path="vendor/xiaomi/sm8250" name="vendor_xiaomi_sm8250" remote="vendor" revision="12.2.5"/>
 	
 	<project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="hardware1" revision="lineage-18.1"/>
 
